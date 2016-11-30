@@ -24,6 +24,8 @@ copyright: true
 # Tips: Before you open this tag, remeber set up your URL in hexo _config.yml ( ex. url: http://yourdomain.com )
 canonical: true
 
+google_analytics: UA-88259532-1
+
 
 # ---------------------------------------------------------------
 # Menu Settings
